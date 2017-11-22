@@ -1,5 +1,7 @@
 {
   "expo": {
     "sdkVersion": "22.0.0"
-  }
+  },
+  "name": "innercon2017",
+  "displayName": "InnerCon 2017"
 }
