@@ -13,8 +13,8 @@ export default class App extends React.Component {
       <View style={styles.container}>
         <Text style={styles.text}>Welcome to Inner Con 2017!</Text>
           <Button
-          title="Let's get this party started!"
-          onPress={this.onPress}
+            title="Let's get this party started!"
+            onPress={this.onPress}
           />
       </View>
     );
@@ -46,5 +46,4 @@ const styles = StyleSheet.create({
     paddingBottom: 12,
     fontSize: 22,
   }
-
 });
